@@ -1,5 +1,5 @@
 # language: es
-@frontend @primary
+@frontend
 Característica: Verificar el total de distintas categorías
    Como un usuario anómimo del sitio
    Ingreso a la página web de MELI

@@ -1,5 +1,5 @@
 # language: es
-@backend @primary
+@backend
 Característica: Prueba de API
 
 
